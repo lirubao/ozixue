@@ -1,6 +1,6 @@
 # Learn exercises and documentation.
 
-###Conference Dir 
+### Conference Dir
 
 From 2015 to 2018. Shanghai China golang convention docs
 
