@@ -1,0 +1,6 @@
+# Compiled exe file
+*.exe
+
+### IntelliJ IDEA ###
+.idea
+*.iml
